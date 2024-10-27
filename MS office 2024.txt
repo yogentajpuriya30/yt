@@ -1,0 +1,10 @@
+open setup file 
+at the of type - cmd
+press Enter
+
+
+type "setup /configure configuration.xml
+"
+press Enter
+
+NOTE: DON'T TURNOFF THE INTERNET. 
